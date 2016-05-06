@@ -1,0 +1,5 @@
+- attr_obj = { title: soup.attributes[0].title, slug: soup.attributes[0].slug, ingredients: soup.attributes[0].ingredients }
+- soup_obj = { type: soup.type, id: soup.id, attributes: attr_obj }
+
+- output = {data: soup}
+= output.to_json

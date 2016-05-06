@@ -1,0 +1,9 @@
+- soups = []
+- data.soups.each do |soup|
+  - attr_obj = { title: soup.attributes[0].title, slug: soup.attributes[0].slug, ingredients: soup.attributes[0].ingredients }
+  - soup_obj = { type: soup.type, id: soup.id, attributes: attr_obj }
+  - soups << soup_obj
+  
+
+- output = {data: soups}
+= output.to_json

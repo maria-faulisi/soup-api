@@ -1,0 +1,27 @@
+- id: 1
+  type: soup
+  attributes:
+    - title: Traditional Chickarina© with Meatballs
+      slug: chickarina
+      ingredients: "Chicken Broth, Meatballs, salt, egg white, romano cheese, Pasta, Carrots, Celery, Cooked Chicken Meat, Corn Protein (hydrolyzed), Carrot Puree"
+
+- id: 2
+  type: soup
+  attributes:
+    - title: Traditional Chicken Noodle
+      slug: chicken-noodle
+      ingredients: "Chicken Broth, Carrots, Cooked Chicken Meat, Egg Noodles, Celery, Water, Modified Food Starch, Corn Protein, Salt, Chicken Fat, Egg White, Potassium Chloride, Carrot Puree, Soy Protein Isolate, Onion Powder, Sugar, Sodium Phosphate, Tomato Extract, Garlic Powder, Parsley, Yeast Extract, Natural Flavor, Chives, Spice, Beta Carotene"
+
+- id: 3
+  type: soup
+  attributes:
+    - title: Light Savory Beef Barley
+      slug: savory-beef-barley
+      ingredients: "Beef Broth, Water, Carrots, Beef, beef broth, hydrolyzed soy protein, modified food starch, salt, sodium phosphates, natural flavor, maltodextrin, Tomatoes, Barley, Green Beans, Celery, Mushrooms, Sugar, Soy Protein, Xanthan Gum, Salt, Potassium Chloride, Natural Flavor, Onion Powder, Garlic Powder, Yeast Extract, Caramel Color, Beef Fat, Beef Extract, Soybean Oil, Dried Parsley, Spice, Maltodextrin, Calcium Chloride, Citric Acid"
+
+- id: 4
+  type: soup
+  attributes:
+    - title: Vegetable Classics Macaroni and Bean
+      slug: macaroni-and-bean
+      ingredients: "Water, Great Northern Beans, Macaroni, Semolina wheat, Egg whites, Celery, Tomato Paste, Soybean Oil, Salt, Romano Cheese, Potassium Chloride, Xanthan Gum, Onion Powder, Sugar, Corn Protein, Yeast Extract, Garlic Powder, Natural Flavor"  
